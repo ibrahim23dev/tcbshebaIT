@@ -20,10 +20,10 @@ const Faqs = () => {
   return (
     <section className="py-20 md:py-[px]">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-12 items-center gap-12 md:gap-[100px]">
+        <div className="grid grid-cols-1 md:grid-cols-12  gap-12 md:gap-[100px]">
           <div className="md:col-span-5">
             <div className="mb-12 md:mb-[60px]" data-aos="fade-up">
-              <h3 className="text-[24px] md:text-[30px] lg:text-[37px] font-semibold mb-[10px] pl-4 md:pl-8 lg:pl-12">
+              <h3 className="text-[24px] justify-start md:text-[30px] mt-0 lg:text-[37px] font-semibold mb-[10px] pl-4 md:pl-8 lg:pl-12">
                 সচরাচর জিজ্ঞাসা
               </h3>
               <p className="pl-4 md:pl-8 lg:pl-12">
