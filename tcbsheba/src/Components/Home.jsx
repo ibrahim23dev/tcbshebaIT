@@ -63,7 +63,7 @@ function App() {
       <Faqs />
 
       <section>
-        <div className="min-h-screen bg-gray-100">
+        <div className=" bg-gray-100">
           <Gallery />
         </div>
       </section>
